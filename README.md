@@ -51,9 +51,9 @@ Output Layer (Predicted NER Tags)
 
 **PROGRAM**
 
-**Name:** Hariharan S
+**Name:** Gowtham S
 
-**Register Number:** 2305001009
+**Register Number:** 2305002008
 
 ``` c
 import matplotlib.pyplot as plt
